@@ -2,5 +2,7 @@
 *~
 __pycache__
 env
+.flaskenv
 .vscode
 .DS_Store
+config.*
